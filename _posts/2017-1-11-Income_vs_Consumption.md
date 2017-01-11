@@ -4,7 +4,7 @@ Blah Blah, blahbetty Blah
 title: What to measure in an agricultural intervention- income or consumption
 author: PJ Paul
 numbersections: true
-date 2017-1-11
+date: 2017-1-11
 ---
 ---
  This is a comment line
