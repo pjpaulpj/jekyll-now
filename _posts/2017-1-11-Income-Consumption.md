@@ -1,10 +1,7 @@
 ---
 layout: post
-title: You're up and running!
----
-layout: post
-Blah Blah, blahbetty Blah
 title: What to measure in an agricultural intervention- income or consumption
+---
 author: PJ Paul
 numbersections: true
 date: 2017-1-11
