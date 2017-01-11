@@ -6,10 +6,6 @@ author: PJ Paul
 numbersections: true
 date: 2017-1-11
 ---
----
- This is a comment line
- Blah Blah and more blah
----
 
 # What to measure in an agricultural intervention- the choice between income and consumption
 
